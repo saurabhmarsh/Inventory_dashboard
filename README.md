@@ -21,13 +21,13 @@ Start the frontend application:
 
 bashCopycd client
 npm start
-# Application will open on http://localhost:3000
+ Application will open on http://localhost:3000
 Running Tests
 bashCopy# Frontend tests
 cd client
 npm test
 
-# Backend tests
+ Backend tests
 cd server
 npm test
 Third-Party Libraries
